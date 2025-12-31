@@ -43,7 +43,7 @@ This analysis answers the following business questions:
 
 ## 📊 Power BI Dashboard Preview
 
-![Power BI Dashboard](docs/dashboard_screenshot.png)
+![Power BI Dashboard](dashboard_screenshot.png)
 *Interactive dashboard visualizing revenue, customer segments, and product insights.*
 
 ## 💡 Key Insights
