@@ -60,6 +60,3 @@ This analysis answers the following business questions:
 - Target marketing to **high-revenue age groups** and express-shipping users  
 
 ---
-
-## 📁 Repository Structure
-
